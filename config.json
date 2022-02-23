@@ -1,5 +1,7 @@
 {
-    "usernames": [
+    "Tokens_list": "/data/tokens/tokens.txt",
+    "Prefixes": ["}"],
+    "Usernames": [
         "peel",
         "divergent",
         "biohazard",
@@ -14,4 +16,5 @@
         "braggart",
         "begot"
     ]
+
 }
