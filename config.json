@@ -1,5 +1,5 @@
 {
-    "Tokens_list": "/data/tokens/tokens.txt",
+    "Tokens_list": [""],
     "Prefixes": ["}"],
     "Usernames": [
         "peel",
@@ -15,6 +15,12 @@
         "capacity",
         "braggart",
         "begot"
-    ]
+    ],
+    "GameStatus": "",
+
+    "Messages": {
+        "1": "",
+        "2": ""
+    }
 
 }
